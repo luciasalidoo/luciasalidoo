@@ -23,8 +23,8 @@ I enjoy exploring creative ways to combine usability, aesthetics, and security i
 I focus on building secure, well-structured, and user-friendly applications that reflect my interests in development, design, and cybersecurity.
 
 ### Fun Facts
-+ Perfectionist (sometimes too much)  
 + Gym helps me stay balanced  
-+ Tea over coffee  
++ Tea over coffee
++ My fav anime is Jojo's Bizarre Adventure
 + I prefer light mode  
 + I love cheetahs!
