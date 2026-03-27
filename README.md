@@ -25,6 +25,6 @@ I focus on building secure, well-structured, and user-friendly applications that
 ### Fun Facts
 + Gym helps me stay balanced  
 + Tea over coffee
-+ My fav anime is (Jojo's Bizarre Adventure)[https://es.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure]
++ My fav anime is Jojo's Bizarre Adventure[https://es.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure]
 + I prefer light mode  
 + I love cheetahs!
