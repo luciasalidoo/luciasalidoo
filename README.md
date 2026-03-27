@@ -14,9 +14,9 @@ My interest in art influences how I approach design and aesthetics in the projec
 
 ### Technologies & Tools
 **Frontend & Backend:** React, Laravel, Java, ASP.NET, JavaScript </br>
-**Cloud & Deployment:** AWS & Docker  
-**Scripting / Terminal:** PowerShell, Bash  
-**Tools:** Figma, Jira, GitHub, GitLab, Notion & Spotify (for focus sessions)
+**Cloud & Deployment:** AWS & Docker </br>
+**Scripting / Terminal:** PowerShell, Bash </br>
+**Tools:** Figma, Jira, GitHub, GitLab, Notion & Spotify (for focus sessions) </br>
 
 ### About Me
 I enjoy exploring creative ways to combine usability, aesthetics, and security in software.  
