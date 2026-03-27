@@ -13,7 +13,7 @@ I value clean interfaces, well-structured systems, and applications that are bot
 My interest in art influences how I approach design and aesthetics in the projects I build.
 
 ### Technologies & Tools
-**Frontend & Backend:** React, Laravel, Java, ASP.NET, JavaScript 
+**Frontend & Backend:** React, Laravel, Java, ASP.NET, JavaScript
 **Scripting / Terminal:** PowerShell, Bash  
 **Cloud & Deployment:** AWS & Docker  
 **Tools:** Figma, Jira, GitHub, GitLab, Notion & Spotify (for focus sessions)
