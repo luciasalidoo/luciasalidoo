@@ -1,5 +1,5 @@
 # Hey there! 🐆💛
-I'm a Computer Science student currently studying DAW (Web Application Development) in Málaga, Spain.  
+I'm a Computer Science student currently studying WAD (Web Application Development) in Málaga, Spain.  
 My goal is to continue my studies in Software Engineering and grow as a security-focused developer.
 
 ### Current Focus
