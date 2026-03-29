@@ -16,8 +16,8 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________
 
 ### A bit about me!
-+ Gym helps me stay balanced  
++ Gym helps me stay balanced
 + Tea over coffee
-+ My fav anime is Jojo's Bizarre Adventure
-+ I prefer light mode  
-+ I love cheetahs!
++ My fav anime is Cowboy Bebop
++ I prefer light mode
++ I love cheetahs! 
