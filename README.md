@@ -2,17 +2,11 @@
 I'm a Computer Science student currently studying WAD (Web Application Development) in Málaga, Spain.  
 My goal is to continue my studies in Software Engineering and grow as a security-focused developer.
 
-_______________________________________________________________________________________________
-
 ### Current Focus
 I am currently working with ASP.NET, JavaScript, and Microsoft SQL Server.  
 At the same time, I am applying Domain-Driven Design (DDD) to better understand how to structure and design scalable applications.
 I am also starting to explore cybersecurity concepts like secure coding and authentication.
-
-### Interests
-I am especially interested in the intersection of design, cybersecurity, and software development.  
-I value clean interfaces, well-structured systems, and applications that are both usable and secure.  
-My interest in art influences how I approach design and aesthetics in the projects I build.
+_______________________________________________________________________________________________
 
 ### Tech & Tools
 **Frontend & Backend:** React, Laravel, Java, ASP.NET, JavaScript </br>
