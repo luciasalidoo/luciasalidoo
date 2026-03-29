@@ -12,13 +12,13 @@ I am especially interested in the intersection of design, cybersecurity, and sof
 I value clean interfaces, well-structured systems, and applications that are both usable and secure.  
 My interest in art influences how I approach design and aesthetics in the projects I build.
 
-### Technologies & Tools
+### Tech & Tools
 **Frontend & Backend:** React, Laravel, Java, ASP.NET, JavaScript </br>
 **Cloud & Deployment:** AWS & Docker </br>
 **Scripting:** PowerShell, Bash </br>
 **Tools:** Figma, Jira, GitHub, GitLab, Notion & Spotify (for focus sessions) </br>
 
-## A bit about me
+## A bit about me!
 + Gym helps me stay balanced  
 + Tea over coffee
 + My fav anime is Jojo's Bizarre Adventure
