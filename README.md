@@ -18,11 +18,7 @@ My interest in art influences how I approach design and aesthetics in the projec
 **Scripting:** PowerShell, Bash </br>
 **Tools:** Figma, Jira, GitHub, GitLab, Notion & Spotify (for focus sessions) </br>
 
-## About Me
-I enjoy exploring creative ways to combine usability, aesthetics, and security in software.  
-I focus on building secure, well-structured, and user-friendly applications that reflect my interests in development, design, and cybersecurity.
-
-### Fun Facts
+## Fun Facts
 + Gym helps me stay balanced  
 + Tea over coffee
 + My fav anime is Jojo's Bizarre Adventure
