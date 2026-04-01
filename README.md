@@ -20,4 +20,4 @@ ________________________________________________________________________________
 + Tea over coffee
 + My fav anime is Cowboy Bebop
 + I prefer light mode
-+ I love cheetahs! 
++ I have a dog 
