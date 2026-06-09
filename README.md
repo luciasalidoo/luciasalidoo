@@ -18,6 +18,5 @@ ________________________________________________________________________________
 ### A bit about me!
 + Gym helps me stay balanced
 + Tea over coffee
-+ My fav anime is Cowboy Bebop
 + I prefer light mode
-+ I have a dog 
++ I have two dogs 
