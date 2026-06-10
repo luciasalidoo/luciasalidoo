@@ -16,7 +16,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________
 
 ### A bit about me!
-+ Gym helps me stay balanced
++ Gym and running helps me stay balanced
 + Tea over coffee
 + I prefer light mode
 + I have two dogs 
